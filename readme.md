@@ -6,7 +6,7 @@ Designed for speed, reliability, and fully unattended execution.
 
 ---
 
-##✨ Key Features
+##Key Features
 
 ### 1. Multi-Threaded Video Processing
 
@@ -58,7 +58,7 @@ using `pypdf` for stable, large-document handling.
 
 ---
 
-## 🧱 Project Structure
+## Project Structure
 
 ```
 
@@ -72,7 +72,7 @@ using `pypdf` for stable, large-document handling.
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - Python 3
 - ffmpeg
@@ -84,7 +84,7 @@ using `pypdf` for stable, large-document handling.
 
 ---
 
-## 🚀 How the Pipeline Works
+## How the Pipeline Works
 
 1. Scan the `/video` folder for supported video files
 2. Sort videos by leading numeric prefix
@@ -97,7 +97,7 @@ using `pypdf` for stable, large-document handling.
 
 ---
 
-## ▶️ Setup & Usage
+## Setup & Usage
 
 ### 1. Install Requirements
 ```bash
@@ -120,7 +120,7 @@ python main.py
 
 ---
 
-## 📄 Example Use Cases
+## Example Use Cases
 
 - Creating printed notes from lecture videos
 - Archiving large tutorial series into document form
@@ -130,7 +130,7 @@ python main.py
 
 ---
 
-## 💡 Potential Enhancements
+## Potential Enhancements
 
 - OCR text extraction from frames
 - Automatic FPS adaptation based on motion
@@ -141,7 +141,7 @@ python main.py
 
 ---
 
-## ✔️ Highlights
+## Highlights
 
 - Fully automated end-to-end workflow
 - Resumable and safe for reruns
